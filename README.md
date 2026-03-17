@@ -1,12 +1,16 @@
 # Manuscript Data Visualization (Tableau)
 
-This project explores manuscript folio metadata from multiple museum collections using Tableau.
+This project simulates a real-world data pipeline by integrating and analyzing data from 10+ independent sources. The objective was to transform inconsistent, multi-source datasets into a unified structure and extract insights across geography and time to support data-driven decision-making.
 
-The dashboards analyze:
+Using museum collection metadata, the project explores patterns in manuscript production, composition, and design through interactive Tableau dashboards.
 
-• Geographic origins of manuscripts  
-• Artwork composition across museums  
-• Page design patterns and dimensions  
+# Key Analyses
+
+Geographic distribution of manuscript production
+
+Artwork composition across museum collections
+
+Page design patterns and dimensional relationships
 
 ## Dashboards
 
@@ -25,12 +29,29 @@ Examines average artwork area and the relationship between painting width and he
 
 ![Page Design](page_design_dashboard.png)
 
-## Tools Used
+## Tools & Technologies
 
-- Tableau
-- Data visualization
-- Museum collection metadata
+- Tableau (data visualization & dashboard development)
 
+- Data cleaning and transformation
+
+- Structured dataset integration from multiple sources
+
+## Business Context
+
+This project reflects common real-world analytics workflows where data must be aggregated from multiple systems, cleaned, and transformed before analysis and visualization. It demonstrates the ability to turn fragmented datasets into structured insights for stakeholders.
+
+## Key Skills Demonstrated
+
+Data integration (multi-source datasets)
+
+Data cleaning & transformation
+
+Exploratory data analysis (EDA)
+
+Data visualization & storytelling
+
+Insight communication for non-technical audiences
 ## Interactive Dashboard
 
 View the interactive Tableau dashboards here:
